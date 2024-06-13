@@ -1,6 +1,6 @@
 
 def main():
-    print("Hello World!")
+    print("Bye World!")
 
 def test1():
     print("Testando alteração 1 - Gabriel")
